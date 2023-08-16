@@ -47,6 +47,8 @@ namespace Components {
           */
       );
 
+    private:
+        U32 m_greetingCount;
 
     };
 
